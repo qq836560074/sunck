@@ -1,25 +1,9 @@
-<<<<<<< HEAD
-=======
 woshi zhangsan 
 
 
-wo shi zw
+I  am  is  monkey
 
-wo shi zw
-wo shi zw
-wo shi zw
-wo shi zw
-wo shi zw
-wo shi zw
-wo shi zw
+public void hello(){
+system.out.println("wo shi yi ge  big sha B");
 
-wo shi zyj
-wo shi zyj
-wo shi zyj
-
-wo shi zyj
-wo shi zyj
-
-wo shi zyjwo shi zyj
-wo shi zyj
-
+}
